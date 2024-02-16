@@ -1,4 +1,4 @@
-# F0RK80M8
+# FORKBOMB
 ### `init.sh` Explanation
 
 This script contains a piece of code known as a "fork bomb" within the Bash scripting language.<br>
